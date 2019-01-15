@@ -1,1 +1,1 @@
-"UPDATE characters SET species = 'Martian' WHERE author_id = 4"
+"UPDATE characters SET SPECIES = 'Martian' WHERE id = 8;"
